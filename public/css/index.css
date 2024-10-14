@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.main{
+    background-color: #fff;
+    padding: 5rem;
+}
+
+.main h1{
+    background-color: #fff;
+    color: blue;
+}
